@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '感受科技',
-  HEO_HERO_TITLE_2: '与文化共鸣',
+  HEO_HERO_TITLE_2: '与文化合鸣',
   HEO_HERO_TITLE_3: '体验 求实 思索 求真',
   HEO_HERO_TITLE_4: 'New Zone', 
   HEO_HERO_TITLE_5: '来者是客，多多交流分享', // 标语
