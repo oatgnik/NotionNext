@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与文化合鸣',
   HEO_HERO_TITLE_3: '体验 求实 思索 求真',
   HEO_HERO_TITLE_4: 'New Zone', 
-  HEO_HERO_TITLE_5: '来者是客，多多交流分享', // 标语
+  HEO_HERO_TITLE_5: '来者是客，缘分独特', // 标语
   HEO_HERO_TITLE_LINK: 'https://www.oatgnik.top', // 点击右侧图片的网页链接
 
   // 英雄区显示三个置顶分类
